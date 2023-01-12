@@ -2,7 +2,7 @@
 
 **Project Summary**
 
-This is the read me document for the Udacity course "Data Engineering Nano Degree", "Data Modelling with Postgres"
+"Data Modelling with Postgres"
 The aim of this project is to demonstrate a sufficient understanding of concepts of data modelling through modelling a star schema and building an ETL pipeline using python.
     
 ## Purpose of Database
